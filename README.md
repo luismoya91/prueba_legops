@@ -10,7 +10,7 @@ Instrucciones
  3.cd prueba_legops
  4.Ejecutar el archivo prueba_etraining.sql ubicado en la carpeta database 
  5.Copiar configuracion de .env.example a .env 
- 6.composer install
+ 6.Ejecutar composer install
  7.Ejecutar php artisan migrate
  8.Ejecutar php artisan queue:work
  9.acceder a https://localhost/prueba_legops/public/api/ejecuciones/10
