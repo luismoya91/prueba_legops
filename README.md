@@ -13,7 +13,7 @@ Instrucciones
  6.Ejecutar composer install
  7.Ejecutar php artisan migrate
  8.Ejecutar php artisan queue:work
- 9.acceder a https://localhost/prueba_legops/public/api/ejecuciones/10
+ 9.acceder a http://localhost/prueba_legops/public/api/ejecuciones/10
  10.Para validar los correos enviados ingresar a gmail
  Usuario: pruebalegops@gmail.com
  Contraseña: Colombia123
